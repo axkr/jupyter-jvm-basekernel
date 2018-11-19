@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="example/src/main/java"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="lib/jimfs-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jeromq-0.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/antlr4-runtime-4.7.jar"/>
+	<classpathentry kind="lib" path="lib/apfloat-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/guava-27.0-android.jar"/>
+	<classpathentry kind="lib" path="lib/hipparchus-core-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/hipparchus-fft-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/hipparchus-fitting-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/hipparchus-ode-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/hipparchus-optim-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/hipparchus-stat-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jas-2.6.5961.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/logicng-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/matheclipse-core-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-android-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/txtmark-0.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
